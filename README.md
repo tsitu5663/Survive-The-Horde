@@ -3,3 +3,5 @@
 <img src="https://github.com/tsitu5663/Survive-The-Horde/blob/master/screen'.png" height="200px">
 <img src="https://github.com/tsitu5663/Survive-The-Horde/blob/master/VICTORY.png" height="200px">
 <img src="https://github.com/tsitu5663/Survive-The-Horde/blob/master/Untitled.png" height="200px">
+<a href="https://www.youtube.com/watch?v=_GikMdhAhv0&feature=youtu.be/">YouTube Teaching</a>
+<a href="https://www.python.org/downloads/"> Python<a/>
